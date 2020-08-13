@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 
 import logging
 
+
 def get_bludit_key(response):
     cookie = response.headers['Set-Cookie']
     bludit_key = None

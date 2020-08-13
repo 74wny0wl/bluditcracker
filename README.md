@@ -1,5 +1,5 @@
-## bluditcracker.py 1.0.0
-Password cracking tool that can be used to gain credentials to Bludit CMS
+## bluditcracker.py 1.0.1
+Password cracking tool that can be used to recover credentials to Bludit CMS
 
 ## Usage
 

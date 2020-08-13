@@ -2,13 +2,17 @@ import itertools
 import os
 import logging
 
+
 class BluditCredentialsFactory:
+
+    def __init__(self):
+        self.csrf_token = None
 
     def use_csrf_token(self, csrf_token):
         self.csrf_token = csrf_token
 
     def create_credentials(self, username, password):
-        credentials = {'tokenCSRF' : self.csrf_token, 'username':username, 'password':password, 'save':''}
+        credentials = {'tokenCSRF': self.csrf_token, 'username': username, 'password': password, 'save': ''}
         return credentials
 
 
