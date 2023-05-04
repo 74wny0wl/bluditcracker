@@ -9,7 +9,7 @@ click==7.1.2
 cryptography==3.3.2
 decorator==4.4.2
 dnspython==2.0.0
-Flask==1.1.2
+Flask==2.2.5
 future==0.18.2
 idna==2.10
 impacket==0.9.23
