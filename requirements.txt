@@ -31,6 +31,6 @@ six==1.15.0
 soupsieve==2.0.1
 toml==0.10.1
 urllib3==1.26.5
-validators==0.17.1
+validators==0.21.0
 Werkzeug==1.0.1
 wrapt==1.12.1
