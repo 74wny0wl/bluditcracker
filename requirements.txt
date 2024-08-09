@@ -24,13 +24,13 @@ mccabe==0.6.1
 pyasn1==0.4.8
 pycparser==2.20
 pycryptodomex==3.9.8
-pylint==2.5.3
+pylint==2.7.0
 pyOpenSSL==19.1.0
 requests==2.24.0
 six==1.15.0
 soupsieve==2.0.1
 toml==0.10.1
 urllib3==1.26.5
-validators==0.17.1
+validators==0.21.0
 Werkzeug==1.0.1
 wrapt==1.12.1
